@@ -1,12 +1,12 @@
 # A313 - NAHIM/LUCAS
 ## Exercice 1
-* **ecritCar :**
+**ecritCar :**
 ```java
 void ecritCar(Character c) {
     System.out.print(c);
 }
 ```
-* **ecritRectangle :**
+**ecritRectangle :**
 ```java
 void ecritRectangle(int l, int L) {
     for (int i = 0; i < l; i++) {
@@ -17,7 +17,7 @@ void ecritRectangle(int l, int L) {
     }
 }
 ```
-* **ecritTriangle :**
+**ecritTriangle :**
 ```java
 void ecritTriangle(int size) {
     int c = 0;
@@ -30,7 +30,7 @@ void ecritTriangle(int size) {
     }
 }
 ```
-* **ecritTriangleCreux :**
+**ecritTriangleCreux :**
 ```java
 void ecritTriangleCreux(int size) {
     int c = 0;
@@ -43,7 +43,7 @@ void ecritTriangleCreux(int size) {
     }
 }
 ```
-* **ecritTriangleDroite1 :**
+**ecritTriangleDroite1 :**
 ```java
 void ecritTriangleDroite1(int size) {
     for (int i = 0; i < size; i++) {
@@ -57,7 +57,7 @@ void ecritTriangleDroite1(int size) {
     }
 }
 ```
-* **ecritTriangleDroite2 :**
+**ecritTriangleDroite2 :**
 ```java
 void ecritTriangleDroite2(int size) {
     for (int i = 0; i < size; i++) {
